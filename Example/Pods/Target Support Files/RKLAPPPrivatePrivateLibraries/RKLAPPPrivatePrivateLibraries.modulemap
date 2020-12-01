@@ -1,0 +1,6 @@
+framework module RKLAPPPrivatePrivateLibraries {
+  umbrella header "RKLAPPPrivatePrivateLibraries-umbrella.h"
+
+  export *
+  module * { export * }
+}

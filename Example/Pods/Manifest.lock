@@ -1,0 +1,16 @@
+PODS:
+  - RKLAPPPrivatePrivateLibraries (0.1.0)
+
+DEPENDENCIES:
+  - RKLAPPPrivatePrivateLibraries (from `../`)
+
+EXTERNAL SOURCES:
+  RKLAPPPrivatePrivateLibraries:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RKLAPPPrivatePrivateLibraries: 6ab8933256de0ec7eb4da0004dfee06a5678fb22
+
+PODFILE CHECKSUM: 660749772e5d5bc7f669df2a09bd3b5c36ae1edf
+
+COCOAPODS: 1.10.0
