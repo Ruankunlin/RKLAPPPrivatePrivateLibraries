@@ -35,3 +35,10 @@ Carthage/Build
 # `pod install` in .travis.yml
 #
 # Pods/
+
+DS_Store
+node_modules/
+/dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
