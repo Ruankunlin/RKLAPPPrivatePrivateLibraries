@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'RKLAPPPrivatePrivateLibraries_Example' do
+  pod 'RKLAPPPrivatePrivateLibraries', :path => '../'
+
+  target 'RKLAPPPrivatePrivateLibraries_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
